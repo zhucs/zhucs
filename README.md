@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Hi there, I'm Aaron — I'm a third-year CS student at Columbia. 
+Hi there, I'm Aaron, a third-year CS student at Columbia.
 
 <!--
 **zhucs/zhucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
