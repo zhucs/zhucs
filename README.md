@@ -1,4 +1,3 @@
-### Welcome! 👋
 
 Hi, I'm Aaron. I'm a college student studying CS and linguistics.
 
