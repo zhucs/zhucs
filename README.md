@@ -1,5 +1,5 @@
 
-Hi, I'm Aaron. I'm a college student studying CS and linguistics.
+Hi, I'm Aaron! I'm a college student studying computer science and linguistics.
 
 <!--
 **zhucs/zhucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
